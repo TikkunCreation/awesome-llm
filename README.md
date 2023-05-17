@@ -13,6 +13,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## LLM Tools
 
+- [Arize-Phoenix](https://phoenix.arize.com/) ML observability for LLMs and LLM applications to detect and find the root-cause of issues.
 - [GPT Index](https://github.com/jerryjliu/gpt_index) GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries.
 - [langchain](https://github.com/hwchase17/langchain)⚡ Building applications with LLMs through composability ⚡
 - [Dust](https://dust.tt/) Prompt engineering, re-imagined🔥
