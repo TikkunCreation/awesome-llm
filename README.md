@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [langchain](https://github.com/hwchase17/langchain)⚡ Building applications with LLMs through composability ⚡
 - [Dust](https://dust.tt/) Prompt engineering, re-imagined🔥
 - [Prompts AI](https://github.com/sevazhidkov/prompts-ai) Prompts AI is an advanced GPT-3 playground.
+- [Declarai](https://github.com/vendi-ai/declarai) Declarai turns your Python code into LLM tasks, utilizing python's native syntax, like type hints and docstrings, to instruct an AI model on what to do.
 
 ## LLM Products
 
